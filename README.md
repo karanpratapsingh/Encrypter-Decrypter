@@ -1,7 +1,7 @@
-*Encrypter/Decrypter
-*Date : 14-Jul-2017
-*Author : Vertigo_101
-*Version : 1.2
+#*Encrypter/Decrypter
+#*Date : 14-Jul-2017
+#*Author : Vertigo_101
+#*Version : 1.2
 
 #Usage :
 
